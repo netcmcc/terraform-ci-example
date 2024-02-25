@@ -1,5 +1,5 @@
 <!-- BEGIN_TF_DOCS -->
-# Main title
+# terraform-ci-example
 
 Everything in this comment block will get extracted.
 
