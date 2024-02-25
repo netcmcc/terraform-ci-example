@@ -29,13 +29,6 @@ variable "region" {
   type        = string
 }
 
-variable "test_var" {
-  description = "test"
-  default     = "value"
-  type        = string
-}
-
-
 variable "bucket_prefix" {
   description = "The Terraform state Bucket prefix (i.e.: `tfstate`)"
   type        = string
